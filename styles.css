@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+div{
+	height:500px;
+	width:500px;
+	border:1px solid black;
+	padding:30px;
+	margin:20px;
+	background-color:grey;
+}
+img{
+	display:block;
+	
+	margin:auto;
+	
+}
+p{
+	text-align:center;
+}
+h1
+{
+	text-align:center;
+}
+button{
+	margin:auto;
+	display:block;
+	background-color:red;
+	color:white;
+	border-radius:50px;
+	padding:20px;
+	font-size:30px;
+}
+.para
+{
+	text-align:center;
+	
+	
+}
